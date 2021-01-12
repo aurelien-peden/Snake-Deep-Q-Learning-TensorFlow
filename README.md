@@ -2,7 +2,7 @@
 
 Deep Q-Learning implemented using TensorFlow 2.0 on a custom Snake game environment.
 
-[The agent playing the game](https://media.giphy.com/media/w038mWYadaQgpBFxMq/giphy.gif)
+![](https://media.giphy.com/media/w038mWYadaQgpBFxMq/giphy.gif)
 
 ## Project's structure
 
