@@ -4,7 +4,7 @@ Deep Q-Learning implemented using TensorFlow 2.0 on a custom Snake game environm
 
 ![](https://media.giphy.com/media/w038mWYadaQgpBFxMq/giphy.gif)
 
-## Project's structure
+## Project structure
 
 * [game.py](./game.py): Contains the game logic and then environment.
 
