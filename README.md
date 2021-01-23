@@ -1,6 +1,6 @@
 # Snake-Deep-Q-Learning-TensorFlow
 
-Deep Q-Learning implemented using TensorFlow 2.0 on a custom Snake game environment.
+Deep Q-Learning implemented using TensorFlow 2.3.1 on a custom Snake game environment.
 
 ![](https://media.giphy.com/media/w038mWYadaQgpBFxMq/giphy.gif)
 
